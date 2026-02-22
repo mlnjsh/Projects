@@ -55,7 +55,8 @@
       "Bash(gh repo list:*)",
       "Bash(gh repo view:*)",
       "Bash(gh repo create:*)",
-      "Bash(MSYS_NO_PATHCONV=1 gh api:*)"
+      "Bash(MSYS_NO_PATHCONV=1 gh api:*)",
+      "Bash(gh pr:*)"
     ]
   }
 }
