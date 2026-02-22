@@ -43,7 +43,20 @@
       "Bash(git branch:*)",
       "Bash(git push:*)",
       "Bash(\"/c/Program Files/GitHub:*)",
-      "Bash(git rebase:*)"
+      "Bash(git rebase:*)",
+      "Bash(git clone:*)",
+      "Bash(cmd.exe /c \"where python\")",
+      "Bash(timeout 5:*)",
+      "Bash(claude mcp add:*)",
+      "Bash(claude mcp list:*)",
+      "Bash(claude --version:*)",
+      "Bash(\"C:/Users/Milan Amrut Joshi/AppData/Local/Programs/Python/Python313/python.exe\" \"C:/Users/Milan Amrut Joshi/manim-mcp-server/src/manim_server.py\")",
+      "Bash(gh api:*)",
+      "Bash(gh repo list:*)",
+      "Bash(gh repo view:*)",
+      "Bash(gh repo create:*)",
+      "Bash(MSYS_NO_PATHCONV=1 gh api:*)",
+      "Bash(gh pr:*)"
     ]
   }
 }
